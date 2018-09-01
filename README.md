@@ -1,2 +1,4 @@
 # helloWorld
-My first proj
+This is my first project of Github, I am trying to learn how to use Github
+
+This is my second time to edit it
